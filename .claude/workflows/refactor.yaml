@@ -1,0 +1,6 @@
+steps:
+  - planner_analyze_architecture
+  - planner_define_refactor
+  - executor_apply_refactor
+  - executor_run_tests
+  - verifier_validate

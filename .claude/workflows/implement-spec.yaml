@@ -1,0 +1,6 @@
+steps:
+  - planner_analyze_spec
+  - planner_define_plan
+  - executor_apply_changes
+  - executor_run_tests
+  - verifier_validate
